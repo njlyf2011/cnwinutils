@@ -10,6 +10,8 @@ Disk    磁盘工具  Disk related tools
 
 File    文件工具  File operation related tools
 
+Network 网络工具  Networking related tools
+
 由于 Git 的限制，所以无法上传空文件夹，如果需要请自行添加。<br/>Due to Git's limitations, empty folders cannot be created, please add them if necessary.
 
 ## 使用要求 Use requirements
@@ -32,4 +34,4 @@ File    文件工具  File operation related tools
 
 ## 其他 Other
 
-这里的中国指的是“大中华地区”，包括中国大陆、香港、澳门和台湾，不带有任何政治色彩。<br/>China refers to the "Greater China region", including mainland China Mainland, Hong Kong S.A.R, Macao S.A.R. and Taiwan, without any political significance.
+这里的中国指的是“大中华地区”，包括中国大陆、香港、澳门和台湾，不带有任何政治色彩。<br/>China refers to the "Greater China region", including mainland China, Hong Kong S.A.R, Macao S.A.R. and Taiwan, without any political significance.
