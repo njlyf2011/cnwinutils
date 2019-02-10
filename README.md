@@ -32,4 +32,4 @@ File    文件工具  File operation related tools
 
 ## 其他 Other
 
-这里的中国指的是“大中华地区”，包括中国大陆、香港、澳门和台湾，不带有任何政治色彩。<br/>China refers to the "Greater China region", including mainland China Mainland, Hong Kong S.A.R, Macao S.A.R. and Taiwan, without any political significance.
+这里的中国指的是“大中华地区”，包括中国大陆、香港、澳门和台湾，不带有任何政治色彩。<br/>China refers to the "Greater China region", including mainland China, Hong Kong S.A.R, Macao S.A.R. and Taiwan, without any political significance.
