@@ -10,6 +10,8 @@ Disk    磁盘工具  Disk related tools
 
 File    文件工具  File operation related tools
 
+Network 网络工具  Networking related tools
+
 由于 Git 的限制，所以无法上传空文件夹，如果需要请自行添加。<br/>Due to Git's limitations, empty folders cannot be created, please add them if necessary.
 
 ## 使用要求 Use requirements
