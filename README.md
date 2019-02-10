@@ -4,13 +4,13 @@
 
 ## 目录说明 Directory introduction
 
-[System](https://github.com/njlyf2011/cnwinutils/tree/master/System)  系统相关  Operating system related tools
+[System](System)  系统相关  Operating system related tools
 
-[Disk](https://github.com/njlyf2011/cnwinutils/tree/master/Disk)  磁盘工具  Disk related tools
+[Disk](Disk)  磁盘工具  Disk related tools
 
-[File](https://github.com/njlyf2011/cnwinutils/tree/master/File)  文件工具  File operation related tools
+[File](File)  文件工具  File operation related tools
 
-[Network](https://github.com/njlyf2011/cnwinutils/tree/master/Network)  网络工具  Networking related tools
+[Network](Network)  网络工具  Networking related tools
 
 由于 Git 的限制，所以无法上传空文件夹，如果需要请自行添加。<br/>Due to Git's limitations, empty folders cannot be created, please add them if necessary.
 
