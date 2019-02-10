@@ -4,6 +4,15 @@
 
 This GitHub project is designed to collect This GitHub project is designed to collect programs that allow commercial or non-commercial use and distribution (whether or not it is free software). You are welcome to download and submit the software programs that allow commercial or non-commercial use and distribution. You are welcome to download and submit the software.
 
+## 目录说明 Directory introduction
+System  系统相关  Operating system related tools
+
+Disk    磁盘工具  Disk related tools
+
+File    文件工具  File operation related tools
+
+由于 Git 的限制，所以无法上传空文件夹，如果需要请自行添加。Due to Git's limitations, empty folders cannot be created, please add them if necessary.
+
 ## 使用要求 Use requirements
 请遵守软件本身的许可协议。
 
@@ -15,7 +24,7 @@ Please follow the license agreement of the software.
 
 2. 该软件的许可协议允许在商业或者非商业的情况下进行分发。The software license agreement allows for distribution in the case of commercial or non-commercial.
 
-3. 该软件不会损害计算机。The software does not harm your computer.
+3. 该软件不会损害计算机。The software does not harm computers.
 
 4. 该软件不是为了非法用途而制造，比如包括软件破解、黑客攻击。The software is not for illegal use and manufacture.Such as software cracking, hacking.
 
